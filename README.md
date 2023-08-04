@@ -1,4 +1,5 @@
-# GPU Puzzles
+# GPU Puzzles Solutions
+- Solutions for all puzzles finished in 17.42 min streamed on twitch. Highly recommend those. Very fun :)
 - by [Sasha Rush](http://rush-nlp.com) - [srush_nlp](https://twitter.com/srush_nlp)
 
 ![](https://github.com/srush/GPU-Puzzles/raw/main/cuda.png)
