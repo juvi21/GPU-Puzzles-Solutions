@@ -1,5 +1,9 @@
 # GPU Puzzles Solutions
-- Solutions for all puzzles finished in 17.42 min streamed on twitch. Highly recommend those. Very fun :)
+
+The puzzles were completed in 17.42 minutes and streamed on Twitch. Highly recommend this puzzle set; was very fun. However, I strongly suggest attempting to solve them on your own first. Even if you're a complete beginner, they are achievable. If you've spent about a week studying CUDA, as I have, you'll find them relatively easy, even without knowledge of numba. The documentation is excellent! :)
+
+Solutions in: 
+G
 - by [Sasha Rush](http://rush-nlp.com) - [srush_nlp](https://twitter.com/srush_nlp)
 
 ![](https://github.com/srush/GPU-Puzzles/raw/main/cuda.png)
